@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="telefono">telefono</string>
+    <string name="boton_text1">text1</string>
+    <string name="dni">dni</string>
+    <string name="nombre">nombre</string>
+    <string name="boton_text2">text</string>
+</resources>
